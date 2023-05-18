@@ -1,0 +1,62 @@
+Privacy Policy
+
+
+
+This privacy policy governs the usage of the app that reads SMS for a pin that every book has as a means of payment verification (the "App"). The App has been developed to assist users in making payments for purchasing books using the unique PINs sent via SMS. Our top priority is the privacy and security of our users. This policy outlines the data that we collect, how we collect it, and how we protect it.
+
+
+
+Personal Information Collection
+
+
+
+The App reads SMS to retrieve the unique PINs sent for purchasing books. We do not collect any personal information from your device, such as your name, address, or phone number. We only access your SMS inbox to retrieve the book purchase PINs.
+
+
+
+Data Usage
+
+
+
+The PINs retrieved from SMS messages are only used for verifying purchased books. We do not use this data for any other purpose. We do not share this data with any third-party services. Further, we do not store any PINs on our servers. The PINs are only temporarily stored in the App's memory to facilitate a transaction between the user and the book retailer.
+
+
+
+Data Security
+
+
+
+We understand the sensitivity of the information we collect, and we take data security very seriously. We have implemented appropriate physical, electronic, and administrative safeguards to ensure the security of your data. We use encryption protocols to protect data transmission, and we restrict access to data to only authorized personnel.
+
+
+
+Third-Party Services
+
+
+
+The App does not use any third-party services that collect personal information or other data. In case you are redirected to the book retailer's website or payment gateway, you will be subject to their privacy policy, and their terms and conditions.
+
+
+
+Policy Changes
+
+
+
+We may revise this privacy policy from time to time. The revised policy will be effective immediately upon its posting on the App. By continuing to use the App, you agree to the updated policy.
+
+
+
+Contact Us
+
+
+
+If you have any concerns or questions regarding this privacy policy or the App's data usage, please feel free to contact us at [By email: craigchimanikire@gmail.com].
+
+
+
+Conclusion
+
+
+
+We are committed to protecting your privacy while providing you with a seamless experience of using our App. We will ensure that any data we collect from your device is kept secure and used only for the purpose of facilitating payments for book purchases. If you have any questions or feedback, please do not hesitate to contact us.
+
